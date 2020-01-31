@@ -1,0 +1,51 @@
+{
+  "name": "react-timey",
+  "version": "0.1.0",
+  "description": "Timeline UI built with React.",
+  "private": false,
+  "homepage": "https://github.com/john-d-pelingo/react-timey",
+  "contributors": [
+    "Awni Gharbia <anongharbia@gmail.com> https://github.com/awnigharbia)",
+    "John Darryl Pelingo <johndarrylpelingo@gmail.com> (https://github.com/john-d-pelingo)"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john-d-pelingo/react-timey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/john-d-pelingo/react-timey/issues"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.1.0",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^8.1.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
