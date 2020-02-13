@@ -2,7 +2,6 @@
 
 - Add License
 - Add linting via `eslint`
-- Add formatting via `prettier`
 - Add git hooks via `husky`
 - Add git file linting via `lint-staged`
 - Add strict node versions via `.npmrc` and `.nvmrc`
