@@ -1,7 +1,6 @@
 # TODOs
 
 - Add linting via `eslint`
-- Add git hooks via `husky`
 - Add git file linting via `lint-staged`
 - Add git commit lint via `commitlint`
 - Add automatic versioning/changelog via `standard-version`
