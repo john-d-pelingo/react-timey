@@ -1,0 +1,15 @@
+{
+    "assignees": [
+        "john-d-pelingo",
+        "awnigharbia"
+    ],
+    "extends": [
+        "config:base"
+    ],
+    "rangeStrategy": "replace",
+    "prCreation": "status-success",
+    "schedule": [
+        "every weekend"
+    ],
+    "timezone": "Europe/Berlin"
+}
