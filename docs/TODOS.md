@@ -1,6 +1,5 @@
 # TODOs
 
-- Add License
 - Add linting via `eslint`
 - Add git hooks via `husky`
 - Add git file linting via `lint-staged`
